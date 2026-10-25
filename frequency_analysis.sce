@@ -1,5 +1,5 @@
 // process signal fft
-// Copyright (C) Imam Hossain (emamh@gmail.com)
+// Copyright (C) Md Imam Hossain (emamh@gmail.com)
 
 Fs = 55; // sampling frequency
 T = 1/Fs; // sampling period
