@@ -1,4 +1,5 @@
 // extract plot data
+// Copyright (C) Md Imam Hossain (emamh@gmail.com)
 // Modified commands array to work on recent version of Scilab
 
 h = gca() // get a handle of graphics object from the plot
